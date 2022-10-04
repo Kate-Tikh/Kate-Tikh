@@ -9,10 +9,14 @@
 <li> ʀᴇᴀᴄᴛ </li>
 <li> ᴊQᴜᴇʀʏ </li>
 
-
+<h2> 📁 I also work with</h2>
 
 
 ![Owm](https://user-images.githubusercontent.com/105393600/193914050-e8dcf5cb-152b-4420-9c35-ed60b918bfb5.gif)
+
+
+
+
 
 <!--
 **Kate-Tikh/Kate-Tikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
