@@ -12,8 +12,12 @@
 <li> ᴊQᴜᴇʀʏ </li>
 
 <h3> 📁 ɪ ᴀʟꜱᴏ ᴡᴏʀᴋ ᴡɪᴛʜ</h3>
-<br>
-
+<p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,sass,nodejs,figma" />
+  </a>
+</p>
 
 ![Owm](https://user-images.githubusercontent.com/105393600/193914050-e8dcf5cb-152b-4420-9c35-ed60b918bfb5.gif)
 
