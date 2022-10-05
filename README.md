@@ -3,13 +3,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>💻ᴘᴏꜱɪᴛɪᴏɴ: ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 <h3>⌨ ᴍʏ ᴍᴀɪɴ ꜱᴛᴀᴄᴋ:
+<p>
 <li> ʜᴛᴍʟ </li>                            
 <li> ᴄꜱꜱ </li>
 <li> ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ </li>
 <li> ʀᴇᴀᴄᴛ </li>
+<li> ᴛʏᴘᴇꜱᴄʀɪᴘᴛ </li>
 <li> ᴊQᴜᴇʀʏ </li>
 
-<h2> 📁 I also work with</h2>
+<h3> 📁 ɪ ᴀʟꜱᴏ ᴡᴏʀᴋ ᴡɪᴛʜ</h3>
+<br>
 
 
 ![Owm](https://user-images.githubusercontent.com/105393600/193914050-e8dcf5cb-152b-4420-9c35-ed60b918bfb5.gif)
