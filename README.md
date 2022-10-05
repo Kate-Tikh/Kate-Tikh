@@ -27,7 +27,8 @@
 <h3> Contacts </h3>
 <p>
 <p>
-
+<li> https://www.linkedin.com/in/ekaterina-tikhonova-15651723b/</li>
+<li> katerina.workmail.987@gmail.com </li>
 
 <!--
 **Kate-Tikh/Kate-Tikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
